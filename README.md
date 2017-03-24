@@ -1,2 +1,2 @@
 # hello-world
-This is my first try
+This will be my trial project to practice git
